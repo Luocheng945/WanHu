@@ -17,9 +17,9 @@ ESP32-S3 receives commands and controls two DC-motors via H-bridge motor drivers
 ## Project status
 **The current system relies on controller input. Vision processing is not currently implemented.**
 
-🟩 **First bring-up:** Stable control, two DC-motors and servo motor function as expected, maximum range tested was 10 meters. 
+🟩 **First bring-up:** Stable control, two DC-motors and servo motor function as expected, maximum range tested was 10 meters, and communication-loss failsafe。 
 
-🧪 **Ongoing testing focus:** Communication-loss failsafe and additional reliability testing are in progress.
+🧪 **Ongoing testing focus:** additional reliability testing are in progress.
 
 ## Software
 ### Raspberry Pi5
